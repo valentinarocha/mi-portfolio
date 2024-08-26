@@ -1,0 +1,28 @@
+body  {
+  background-color: #f2e6fc;
+}
+
+h1 {
+  background-color: rgb(193, 217, 228);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: rgb(8, 0, 78);
+  font: size 900px;
+  font-weight: 800;
+}
+
+ul {
+  background-color: rgb(242, 237, 255);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: rgb(9, 0, 88);
+  font: size 600px;
+  font-weight: 600;
+} 
+
+p {
+    font: size 600px;
+    font-weight: 600;
+  } 
+
+.text-center {
+    text-align: center;
+}
